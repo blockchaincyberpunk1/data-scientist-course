@@ -1,0 +1,60 @@
+Hypothesis Testing
+
+Objective: To perform hypothesis testing.
+
+Task:
+
+Introduction to Hypothesis Testing:
+
+Provide an introduction to the concept of hypothesis testing in statistical analysis.
+Explain the importance of hypothesis testing in drawing conclusions from data.
+Dataset Selection:
+
+Instruct students to select a dataset for their hypothesis testing project. The dataset should be relevant to their research question and suitable for hypothesis testing.
+Research Question Formulation:
+
+Guide students in formulating a research question that can be addressed through hypothesis testing. Encourage them to define null and alternative hypotheses based on their research question.
+Programming Language:
+
+Let students choose a programming language for conducting hypothesis testing. Common choices are Python with libraries like NumPy and SciPy, or R.
+Data Exploration:
+
+Instruct students to load and explore the chosen dataset. They should identify the variables of interest and understand their distributions.
+Statistical Test Selection:
+
+Assign students the task of choosing an appropriate statistical test for their research question. Examples of tests include:
+Independent t-test (for comparing means of two groups).
+Chi-squared test (for testing independence in contingency tables).
+ANOVA (Analysis of Variance) (for comparing means across multiple groups).
+Hypothesis Testing Process:
+
+Guide students through the steps of conducting hypothesis testing, which typically include:
+Formulating null and alternative hypotheses.
+Choosing the significance level (alpha).
+Calculating the test statistic.
+Determining the p-value.
+Making a decision to reject or fail to reject the null hypothesis.
+Interpreting the results in the context of the research question.
+Visualization (Optional):
+
+If time allows, students can create visualizations (e.g., histograms, box plots) to help illustrate the distribution of data and the results of hypothesis testing.
+Documentation:
+
+Require students to document their hypothesis testing process, including the research question, hypotheses, chosen statistical test, results, and interpretation.
+Presentation (Optional):
+
+If time permits, students can present their hypothesis testing project to the class, explaining the research question, methodology, and findings.
+Submission of Hypothesis Testing Project:
+
+Have students submit their hypothesis testing project, including the code, dataset, documentation, and any visualizations (if created).
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and relevance of the research question.
+Appropriateness of the chosen statistical test.
+Correctness of hypothesis testing methodology.
+Interpretation of results in the context of the research question.
+Clarity and completeness of documentation.
+Ethical considerations related to data analysis and interpretation.
+Overall presentation and clarity of the project.

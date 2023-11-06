@@ -1,0 +1,58 @@
+Technical Report Writing
+
+Objective: To develop technical report writing skills in the context of data analysis projects.
+
+Task:
+
+Introduction to Technical Report Writing:
+
+Explain the significance of clear and concise technical report writing in data analysis projects.
+Highlight the target audience, which may include technical peers, stakeholders, or decision-makers.
+Dataset Selection and Data Description:
+
+Provide students with a dataset relevant to a specific domain or problem.
+Instruct students to provide a detailed description of the dataset, including its source, size, features, and any data quality issues.
+Data Preprocessing:
+
+Guide students through the data preprocessing steps, which may include data cleaning, handling missing values, encoding categorical variables, and feature scaling.
+Instruct them to document each preprocessing step and explain the rationale behind their decisions.
+Exploratory Data Analysis (EDA):
+
+Encourage students to conduct EDA to gain insights into the dataset. They should create visualizations and summary statistics to understand data distributions, correlations, and potential outliers.
+Research Question or Hypothesis:
+
+Ask students to formulate a research question or hypothesis related to the dataset. This question should guide their data analysis.
+Modeling Techniques:
+
+Instruct students to select appropriate modeling techniques based on the research question and dataset characteristics.
+Describe the chosen models, including algorithms, hyperparameters, and any model selection process.
+Data Analysis and Interpretation:
+
+Have students execute the selected models on the dataset and interpret the results.
+Encourage them to provide insights into what the analysis reveals about the research question.
+Discussion and Conclusion:
+
+Ask students to summarize their findings and discuss the implications of their analysis.
+Encourage them to provide recommendations or insights that may be relevant to stakeholders or decision-makers.
+Technical Report Writing:
+
+Guide students in structuring their technical report, including sections such as Introduction, Data Description, Data Preprocessing, EDA, Modeling, Results, Discussion, Conclusion, and References.
+Emphasize the importance of clear, concise, and well-organized writing.
+Citations and References:
+
+Instruct students to properly cite data sources, research papers, and any external references they used during the project.
+Peer Review (Optional):
+
+Optionally, organize a peer review session where students review and provide feedback on each other's technical reports.
+Submission:
+
+Have students submit their technical reports as documents (e.g., PDF) or provide access to a shared document platform.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and organization of the technical report.
+Quality of data preprocessing and modeling techniques.
+Soundness of data analysis and interpretation.
+Effective communication of findings and insights.
+Proper citations and references.

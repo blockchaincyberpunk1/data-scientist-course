@@ -1,0 +1,63 @@
+Model Containerization with Docker
+
+Objective: To containerize a machine learning model using Docker.
+
+Task:
+
+In this assignment, students will learn how to containerize a machine learning model using Docker, a popular containerization platform. They will create a Docker image that encapsulates the machine learning model, its dependencies, and a simple web service to interact with the model.
+
+Instructions:
+
+Introduction to Containerization:
+
+Provide an overview of containerization and its significance in deploying machine learning models.
+Explain the advantages of using Docker for packaging models.
+Select a Machine Learning Model:
+
+Provide students with a pre-trained machine learning model (e.g., a classification or regression model).
+Ensure that the model is suitable for containerization.
+Install Docker:
+
+Instruct students to install Docker on their local development environment.
+Provide resources or guides for Docker installation.
+Dockerfile Creation:
+
+Explain the concept of a Dockerfile and its role in defining the container's configuration.
+Instruct students to create a Dockerfile for their project.
+Model Integration:
+
+Guide students in embedding the pre-trained machine learning model within the Docker image.
+Explain how to include model weights, code, and dependencies.
+Web Service:
+
+Encourage students to create a basic web service (e.g., using Flask) within the Docker container.
+The web service should expose an API endpoint for model predictions.
+Docker Compose (Optional):
+
+Introduce Docker Compose for orchestrating multi-container applications.
+If desired, students can use Docker Compose to manage the model container and any additional services.
+Building and Running the Container:
+
+Instruct students on how to build the Docker image from the Dockerfile.
+Explain the process of running the container locally.
+Testing:
+
+Encourage students to test their containerized model by sending sample requests to the API endpoint.
+Provide example requests and expected responses for testing.
+Deployment Considerations:
+
+Discuss considerations for deploying Docker containers in production environments, including cloud-based solutions.
+Documentation:
+
+Emphasize the importance of documenting the Dockerfile and containerization process.
+Submission and Presentation:
+
+Have students submit their Dockerized machine learning model along with a brief report or presentation explaining the project's functionality and deployment process.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful creation of a Docker image that encapsulates the machine learning model and dependencies.
+Functional web service within the Docker container that accepts requests and provides model predictions.
+Proper documentation of the Dockerfile and containerization process.
+Testing and verification of the Dockerized model's functionality.

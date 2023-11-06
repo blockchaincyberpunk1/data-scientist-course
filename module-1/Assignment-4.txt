@@ -1,0 +1,54 @@
+Probability and Hypothesis Testing
+
+Objective: To apply probability and hypothesis testing.
+
+Task:
+
+Introduction to Probability and Hypothesis Testing:
+
+Provide an introduction to the concepts of probability and hypothesis testing in statistics.
+Explain how hypothesis testing helps in making informed decisions based on data.
+Hypothesis Testing Problem:
+
+Present students with a real-world problem or scenario that requires hypothesis testing. The problem should involve comparing two groups or populations.
+Formulating Null and Alternative Hypotheses:
+
+Instruct students to formulate null (H0) and alternative (Ha) hypotheses for the problem. Ensure that the hypotheses are clear and relevant to the problem statement.
+Data Collection:
+
+Provide students with the dataset relevant to the problem. The dataset should contain the necessary information to perform the hypothesis test.
+Data Exploration:
+
+Ask students to load and explore the dataset using Python (using libraries like pandas) or R. They should examine the characteristics of the data, including sample sizes and data distributions.
+Hypothesis Testing:
+
+Assign students the task of selecting an appropriate hypothesis test (e.g., t-test, chi-squared test, ANOVA) based on the problem and data type.
+Instruct them to perform the hypothesis test using Python (e.g., scipy.stats) or R (e.g., t.test, chisq.test).
+Calculating p-values:
+
+Have students calculate the p-value associated with the test statistic. This is a critical step in hypothesis testing, as it quantifies the evidence against the null hypothesis.
+Interpretation of Results:
+
+Instruct students to interpret the results of the hypothesis test. They should address the following questions:
+What does the p-value indicate about the null hypothesis?
+Can the null hypothesis be rejected or not?
+What are the practical implications of the test results?
+Presentation (Optional):
+
+If time permits, students can present their hypothesis testing process, results, and interpretations to the class. This allows for peer review and discussion.
+Reflection:
+
+Encourage students to reflect on the process of hypothesis testing and its relevance in data-driven decision-making.
+Submission of Analysis:
+
+Have students submit their analysis, including code (Python or R scripts), hypothesis statements, test statistics, p-values, and interpretations.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct formulation of null and alternative hypotheses.
+Appropriate selection and execution of the hypothesis test.
+Accurate calculation of p-values.
+Clarity and relevance of the interpretation of results.
+Quality of code and documentation.
+Overall presentation and clarity of the analysis.

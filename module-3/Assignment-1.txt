@@ -1,0 +1,59 @@
+Data Visualization Portfolio
+
+Objective: To practice data visualization techniques.
+
+Task:
+
+Introduction to Data Visualization Portfolio:
+
+Provide an introduction to the importance of data visualization in data analysis and communication.
+Explain how effective data visualizations can convey insights and patterns in data.
+Dataset Selection:
+
+Instruct students to select a dataset for their portfolio. They can choose a dataset related to their interests or field of study. Encourage them to ensure that the dataset is suitable for creating a variety of visualizations.
+Programming Language and Libraries:
+
+Let students choose a programming language for creating data visualizations. Common choices are Python with libraries like Matplotlib and Seaborn, or R with ggplot2.
+Provide guidance on how to install and import the selected libraries.
+Data Exploration:
+
+Instruct students to load the chosen dataset and explore its structure. They should identify key variables and consider the types of visualizations that would be most informative for each variable.
+Data Visualization Creation:
+
+Assign students the task of creating a portfolio of data visualizations. They should include a variety of visualization types, such as:
+Bar charts
+Line charts
+Scatter plots
+Heatmaps
+Histograms
+Box plots
+Pie charts (if suitable)
+Any other relevant visualizations
+Insights and Storytelling:
+
+Emphasize the importance of storytelling through visualizations. Students should not only create visualizations but also provide captions, titles, and explanations that convey meaningful insights from the data.
+Creativity and Customization:
+
+Encourage students to be creative and customize their visualizations to make them visually appealing and effective in communicating the intended message.
+Documentation:
+
+Require students to document their data visualization portfolio, explaining the rationale behind their choices of visualizations, any data preprocessing steps performed, and the insights gained.
+Peer Review (Optional):
+
+If time allows, students can share their data visualization portfolios with peers for feedback and review.
+Presentation (Optional):
+
+If time permits, students can present their data visualization portfolio to the class, highlighting key findings and insights.
+Submission of Data Visualization Portfolio:
+
+Have students submit their portfolio, which should include the dataset, code for creating visualizations, documentation, and any additional insights or observations.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Variety and appropriateness of data visualizations.
+Clarity and effectiveness of communication through visualizations.
+Creativity and customization of visualizations.
+Documentation of the rationale and insights gained.
+Ethical considerations related to data visualization (e.g., proper data handling and representation).
+Overall presentation and clarity of the portfolio.

@@ -1,0 +1,50 @@
+Feature Selection
+
+Objective: To practice feature selection.
+
+Task:
+
+Introduction to Feature Selection:
+
+Provide an introduction to the importance of feature selection in machine learning.
+Explain that feature selection helps improve model performance, reduce complexity, and enhance interpretability.
+Dataset Selection:
+
+Assign students a dataset for analysis. The dataset should contain multiple features (attributes) and a target variable suitable for a machine learning task.
+Dataset Exploration:
+
+Instruct students to explore the dataset, including data distributions, feature types (numeric, categorical), and any potential issues like missing values or outliers.
+Feature Selection Techniques:
+
+Introduce students to common feature selection techniques, such as:
+Correlation Analysis: Identify and remove highly correlated features.
+Feature Importance: Calculate feature importance scores using methods like tree-based models (e.g., Random Forest) and select the most important features.
+Recursive Feature Elimination (RFE): Use RFE to iteratively select features based on model performance.
+Feature Selection Process:
+
+Guide students through the process of feature selection. They should apply at least two feature selection techniques to the dataset.
+Justification:
+
+Instruct students to justify their selection of features based on the techniques they applied. They should explain why certain features were chosen or removed.
+Model Building:
+
+Have students build machine learning models using the selected features and compare model performance (e.g., accuracy, F1-score, mean squared error) with and without feature selection.
+Evaluation Metrics:
+
+Explain the importance of selecting appropriate evaluation metrics for the machine learning task and dataset. Students should identify the relevant metrics for their problem.
+Report or Presentation:
+
+Assign students the task of creating a report or presentation summarizing their feature selection process, techniques applied, justifications, and the impact on model performance.
+Submission of Feature Selection Project:
+
+Have students submit their reports or presentations for evaluation.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Application of feature selection techniques.
+Clarity and completeness of explanations and justifications.
+Comparison of model performance before and after feature selection.
+Appropriate selection of evaluation metrics.
+Ethical considerations related to data usage and feature selection.
+Overall organization and clarity of the report or presentation.

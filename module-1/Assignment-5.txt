@@ -1,0 +1,62 @@
+Data Manipulation with Python
+
+Objective: To practice data manipulation using Python.
+
+Task:
+
+Introduction to Data Manipulation:
+
+Provide an introduction to the importance of data manipulation in data analysis and data science.
+Explain how data manipulation involves tasks such as data cleaning, transformation, and exploration.
+Dataset Selection:
+
+Select a dataset that is suitable for the assignment. Ensure that the dataset contains a variety of data types (e.g., numeric, categorical) and some missing or messy data. You can use publicly available datasets or create a custom dataset.
+Data Exploration:
+
+Instruct students to load the dataset using Python (using libraries like pandas) and start by exploring the dataset's structure, including the number of rows and columns, data types, and the first few rows of data.
+Data Cleaning:
+
+Assign students the task of performing data cleaning tasks, which may include:
+Handling missing data (e.g., imputation or removal).
+Removing duplicates.
+Standardizing column names.
+Handling outliers or extreme values.
+Converting data types as needed.
+Data Transformation:
+
+Ask students to perform data transformations that are relevant to the dataset. This may include:
+Creating new features or variables.
+Normalizing or scaling numeric data.
+Encoding categorical variables.
+Handling date and time data.
+Aggregating or summarizing data.
+Data Exploration and Analysis:
+
+Instruct students to explore the cleaned and transformed data by writing Python code to answer specific questions about the data. These questions may include:
+What are the summary statistics for numeric variables?
+What is the distribution of categorical variables?
+Are there any correlations between variables?
+Can you identify any trends or patterns in the data?
+Are there any interesting insights or outliers?
+Visualization:
+
+Encourage students to create data visualizations (e.g., histograms, scatter plots, bar charts) using libraries like Matplotlib or Seaborn to complement their data analysis.
+Conclusion and Insights:
+
+Require students to summarize their findings and insights from the data manipulation and analysis process. What did they learn from the dataset?
+Presentation (Optional):
+
+If time permits, students can present their data manipulation and analysis process, findings, and visualizations to the class. This allows for peer review and discussion.
+Submission of Analysis:
+
+Have students submit their analysis, including code (Python scripts), data cleaning and transformation steps, analysis results, and visualizations.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and effectiveness of data cleaning and transformation.
+Quality and relevance of data exploration and analysis.
+Appropriateness of data visualizations.
+Clarity and completeness of the summary and insights.
+Quality of code and documentation.
+Overall presentation and clarity of the analysis.

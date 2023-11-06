@@ -1,0 +1,56 @@
+Data Science Ethics
+
+Objective: To understand ethical considerations in data science.
+
+Task:
+
+Introduction to Data Science Ethics:
+
+Provide an introduction to the importance of ethics in data science.
+Explain how ethical considerations are critical in ensuring responsible and fair data-driven decision-making.
+Selection of Ethical Topics:
+
+Instruct students to choose at least three ethical topics related to data science that interest them. Suggested topics include:
+Data privacy and confidentiality.
+Bias and fairness in algorithms.
+Responsible AI and machine learning.
+Ethical data collection and usage.
+Transparency and interpretability in models.
+Data ownership and consent.
+Research and Issue Exploration:
+
+Assign students the task of researching each chosen ethical topic thoroughly. They should explore real-world examples, case studies, and relevant literature to understand the challenges and implications.
+Ethical Issues Report:
+
+Ask students to write a comprehensive report on the ethical issues and challenges associated with their selected topics. For each topic, the report should include:
+An explanation of the ethical concern and why it is relevant.
+Real-world examples or case studies illustrating the issue.
+The potential impact of the issue on individuals, society, or organizations.
+Ethical frameworks or principles that apply to the topic.
+Current industry standards or guidelines for addressing the concern.
+Strategies for Addressing Ethical Concerns:
+
+Instruct students to propose strategies and solutions for addressing the ethical concerns they discussed. They should consider:
+Best practices for data collection, handling, and storage.
+Methods to mitigate bias and promote fairness in algorithms.
+Transparency and explainability in AI and machine learning models.
+Data anonymization and privacy protection techniques.
+Guidelines for obtaining informed consent.
+Reflection and Personal Commitment:
+
+Encourage students to reflect on their personal commitment to ethical data science practices. How can they apply ethical principles in their future data science work?
+Presentation (Optional):
+
+If time permits, students can present their findings and proposed solutions to the class. This allows for peer discussion and feedback.
+Submission of Ethical Issues Report:
+
+Have students submit their completed ethical issues report, including all sections and details.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Depth and clarity of the ethical issues discussed.
+Relevance of real-world examples and case studies.
+Appropriateness of proposed strategies and solutions.
+Reflection on personal commitment to ethical data science.
+Ability to communicate complex ethical concepts effectively (if applicable).

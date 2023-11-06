@@ -1,0 +1,51 @@
+Missing Data Handling
+
+Objective: To practice handling missing values.
+
+Task:
+
+Introduction to Missing Data Handling:
+
+Provide an introduction to the importance of handling missing values in data analysis and data preprocessing.
+Explain how missing data can impact the accuracy and validity of analysis results.
+Dataset with Missing Values:
+
+Provide students with a dataset that contains missing values. Ensure that the dataset has a mix of data types (numeric and categorical) and that the missing values are spread across different columns.
+Python Libraries:
+
+Introduce students to Python libraries commonly used for data analysis and handling missing values, such as pandas and NumPy. Provide guidance on how to import these libraries.
+Data Exploration:
+
+Instruct students to load the dataset using pandas and start by exploring the dataset's structure. They should identify columns with missing values and understand the data types.
+Missing Data Imputation:
+
+Assign students the task of writing Python code to handle missing values using appropriate imputation techniques. They should consider the following methods:
+Mean or median imputation for numeric columns.
+Mode imputation for categorical columns.
+Interpolation techniques (e.g., linear interpolation) for time-series or continuous data.
+Advanced techniques like K-nearest neighbors (KNN) imputation, if applicable.
+Data Validation:
+
+Encourage students to validate their imputed data to ensure that the imputation process has been executed correctly. They should check for missing values after imputation.
+Documentation:
+
+Require students to document their missing data handling process, including which imputation techniques were used for each column, and any challenges or observations during the process.
+Analysis (Optional):
+
+If time allows, students can perform basic data analysis or visualization using the cleaned dataset to understand the impact of missing data handling on analysis results.
+Presentation (Optional):
+
+If time permits, students can present their missing data handling process, challenges, and results to the class. This allows for peer review and discussion.
+Submission of Cleaned Dataset and Documentation:
+
+Have students submit the cleaned dataset (with missing values imputed) and the documentation of their missing data handling process.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and effectiveness of missing data handling techniques.
+Clarity and completeness of documentation.
+Quality of code for imputation.
+Validation of imputed data to ensure correctness.
+Ethical considerations related to data handling.
+Overall presentation and clarity of the process.

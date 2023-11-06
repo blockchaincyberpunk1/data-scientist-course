@@ -1,0 +1,64 @@
+Open-Source Contribution
+
+Objective: To actively contribute to data science open-source projects and gain practical experience in collaborating with the open-source community.
+
+Task:
+
+In this assignment, students will have the opportunity to make meaningful contributions to data science-related open-source projects hosted on platforms like GitHub. By actively participating in open-source development, they will learn valuable skills, contribute to the community, and enhance their own understanding of data science tools and practices.
+
+Instructions:
+
+Introduction to Open Source:
+
+Explain the significance of open-source software in the data science field.
+Discuss the benefits of contributing to open-source projects, such as skill development, community involvement, and building a portfolio.
+Selecting a Project:
+
+Provide students with guidelines on how to choose an open-source project that aligns with their interests and skill level.
+Encourage them to explore projects related to data analysis, machine learning, data visualization, or any other data science subfield.
+GitHub Account Setup:
+
+Ensure that students have or create GitHub accounts if they don't have one already.
+Guide them through basic GitHub operations, such as forking repositories and cloning.
+Finding Contributions:
+
+Instruct students to explore the project's GitHub repository and look for issues marked as "good first issue" or "beginner-friendly." These are often suitable for newcomers.
+Contribute to the Project:
+
+Assign students the task of selecting and working on an issue from the project's repository. They can choose from tasks like bug fixes, feature additions, code enhancements, or documentation improvements.
+Emphasize the importance of following the project's contribution guidelines and coding style.
+Collaboration and Communication:
+
+Encourage students to actively communicate with the project maintainers and community members through GitHub discussions, comments, and pull requests.
+Explain the etiquette of professional communication in open-source environments.
+Code Quality and Documentation:
+
+Stress the significance of writing clean, well-documented code.
+Instruct students to include appropriate comments and update project documentation as needed.
+Version Control and Pull Requests:
+
+Teach students how to use Git for version control and create pull requests (PRs) to propose their changes to the project.
+Discuss the review process, including feedback and revisions.
+Submitting Contributions:
+
+Ensure that students know how to submit their contributions by creating and submitting pull requests.
+Emphasize the importance of providing detailed descriptions of their changes in the PR.
+Feedback and Iteration:
+
+Explain that their contributions may undergo review by project maintainers.
+Encourage students to address feedback promptly and make necessary revisions.
+Track Contributions:
+
+Instruct students to keep a record of their contributions, including the repositories they worked on, the nature of their contributions, and links to their PRs.
+Final Report:
+
+Ask students to submit a final report summarizing their open-source contributions, including the projects they worked on, the tasks they completed, and any feedback received.
+Encourage reflection on the experience, highlighting what they learned and the challenges they faced.
+Evaluation Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+The number and complexity of contributions made to open-source projects.
+Quality of code, documentation, and adherence to project guidelines.
+Effective communication and collaboration with project maintainers and the open-source community.
+Reflection on the experience and lessons learned from contributing to open source.

@@ -1,0 +1,46 @@
+Research Paper Summary
+
+Objective: To stay updated with recent developments in data science, machine learning, and AI research.
+
+Task:
+
+In this assignment, students will engage with cutting-edge research in the field of data science by selecting and summarizing a recent research paper. This task will not only help them stay updated with the latest trends but also enhance their critical reading and summarization skills.
+
+Instructions:
+
+Paper Selection:
+
+Instruct students to choose a recent research paper (published within the last 2-3 years) in the fields of data science, machine learning, or AI. Papers can be sourced from academic journals, conferences (e.g., NeurIPS, ICML, CVPR), or preprint archives (e.g., arXiv).
+Paper Summary Format:
+
+Specify the format for the paper summary. It can be in the form of a written document, presentation, or video.
+Ask students to include the following sections in their summary:
+Paper Title: Mention the title of the selected research paper.
+Authors: List the authors of the paper.
+Publication Details: Include details such as the publication venue (journal or conference), publication date, and any additional relevant information.
+Problem Statement: Explain the research problem or question the paper addresses.
+Methodology: Summarize the key methods, techniques, or algorithms used in the research.
+Results and Findings: Present the main results, outcomes, or discoveries of the research.
+Implications: Discuss the potential implications and applications of the research in the field of data science or related domains.
+Critique: Offer a critical evaluation of the paper, including strengths and weaknesses.
+Personal Insights: Share personal thoughts, reflections, or questions arising from the paper.
+Critical Evaluation:
+
+Encourage students to critically evaluate the research paper. They should consider aspects such as the significance of the problem, the novelty of the approach, the quality of the experimental design, and the clarity of presentation.
+Ask them to identify any limitations or areas where further research may be needed.
+Peer Sharing:
+
+Arrange a session for students to present their research paper summaries to the class.
+Promote discussions and questions among students to facilitate a deeper understanding of the research.
+Reflection:
+
+Instruct students to reflect on what they have learned from reading and summarizing the research paper. They should consider how the findings may impact the field and their own areas of interest.
+Evaluation Criteria:
+
+This assignment will be assessed based on the following criteria:
+
+Clarity and completeness of the paper summary.
+Critical evaluation of the selected research paper.
+Quality of insights and implications discussed.
+Engagement in peer discussions and questions.
+Overall presentation and communication skills.

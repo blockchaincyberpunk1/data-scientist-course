@@ -1,0 +1,56 @@
+Outlier Detection and Removal
+
+Objective: To identify and handle outliers.
+
+Task:
+
+Introduction to Outlier Detection and Removal:
+
+Provide an introduction to the concept of outliers in data and their impact on statistical analysis and modeling.
+Explain how outlier detection and removal are essential steps in data preprocessing.
+Dataset with Outliers:
+
+Provide students with a dataset that contains outliers. Ensure that the dataset has a mix of data types (numeric and categorical) and that the outliers are spread across different columns.
+Python Libraries:
+
+Introduce students to Python libraries commonly used for data analysis and outlier detection, such as pandas, NumPy, and Matplotlib. Provide guidance on how to import these libraries.
+Data Exploration:
+
+Instruct students to load the dataset using pandas and start by exploring the dataset's structure. They should identify columns with potential outliers and understand the data types.
+Outlier Detection Methods:
+
+Assign students the task of writing Python code to detect outliers using appropriate methods, such as:
+Z-score method.
+IQR (Interquartile Range) method.
+Visualization techniques (box plots or scatter plots) to identify potential outliers.
+Outlier Handling:
+
+Instruct students to decide on an approach for handling outliers based on their detection method:
+Removal of outliers (students should clearly document their criteria for removal).
+Transformation of outlier values (e.g., capping or transforming outliers).
+Imputation of outliers using statistical techniques (e.g., replacing with the mean or median).
+Data Validation:
+
+Encourage students to validate their dataset after handling outliers to ensure that the process has been executed correctly. They should check for the absence of extreme values.
+Documentation:
+
+Require students to document their outlier detection and handling process, including which method(s) were used, and any challenges or observations during the process.
+Analysis (Optional):
+
+If time allows, students can perform basic data analysis or visualization using the cleaned dataset to understand the impact of outlier handling on analysis results.
+Presentation (Optional):
+
+If time permits, students can present their outlier detection and handling process, challenges, and results to the class. This allows for peer review and discussion.
+Submission of Cleaned Dataset and Documentation:
+
+Have students submit the cleaned dataset (with outliers handled) and the documentation of their outlier detection and handling process.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and effectiveness of outlier detection and handling techniques.
+Clarity and completeness of documentation.
+Quality of code for outlier detection and handling.
+Validation of the cleaned dataset to ensure correctness.
+Ethical considerations related to outlier handling.
+Overall presentation and clarity of the process.

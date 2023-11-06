@@ -1,0 +1,50 @@
+ML Algorithm Selection
+
+Objective: To understand algorithm selection.
+
+Task:
+
+Introduction to Algorithm Selection:
+
+Provide an introduction to the importance of algorithm selection in machine learning.
+Explain that the choice of the right machine learning algorithm depends on the problem type and dataset characteristics.
+Dataset Selection:
+
+Assign students a dataset for analysis. The dataset should have both features and a target variable suitable for either classification or regression.
+Problem Type Selection:
+
+Instruct students to analyze the dataset and decide whether it is a classification or regression problem based on the nature of the target variable. They should justify their choice.
+Dataset Exploration:
+
+Guide students to explore the dataset to gain insights into its characteristics. They should examine data distributions, feature correlations, and any potential challenges, such as class imbalances or missing values.
+Algorithm Selection:
+
+Ask students to research and select at least three machine learning algorithms appropriate for the chosen problem type (classification or regression). They should consider algorithms from different categories (e.g., decision trees, neural networks, ensemble methods) and explain why they are suitable.
+Justification:
+
+Instruct students to justify their algorithm choices based on factors such as the dataset size, data complexity, interpretability, and any specific goals or constraints of the problem.
+Algorithm Comparison:
+
+Have students compare the selected algorithms, discussing their strengths, weaknesses, and trade-offs in terms of accuracy, computational complexity, and interpretability.
+Evaluation Metrics:
+
+Explain the importance of selecting appropriate evaluation metrics for the chosen problem type (e.g., accuracy, F1-score for classification; mean squared error, R-squared for regression). Students should identify the relevant metrics for their problem.
+Recommendations:
+
+Instruct students to make a final recommendation for the machine learning algorithm they believe is most suitable for the problem. They should provide a clear rationale for their recommendation.
+Report or Presentation:
+
+Assign students the task of creating a report or presentation summarizing their analysis, algorithm selections, justifications, and recommendations.
+Submission of Algorithm Selection Project:
+
+Have students submit their reports or presentations for evaluation.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Appropriateness of problem type selection (classification or regression).
+Justification of algorithm choices based on dataset characteristics.
+Thorough comparison of selected algorithms.
+Clarity of explanations and rationale.
+Ethical considerations related to data usage and model interpretability (if applicable).
+Overall organization and clarity of the report or presentation.

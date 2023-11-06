@@ -1,0 +1,54 @@
+Image Classification with CNN
+
+Objective: To implement a convolutional neural network (CNN) for image classification.
+
+Task:
+
+Introduction to Image Classification and CNN:
+
+Begin by introducing the concept of image classification and the significance of CNNs in image-related tasks.
+Explain the importance of CNN layers like convolutional layers, pooling layers, and fully connected layers.
+Dataset Selection:
+
+Provide students with an image classification dataset suitable for the assignment. Suggested datasets include CIFAR-10, MNIST, or a custom dataset.
+Ensure the dataset has a sufficient number of classes and a reasonable number of images per class.
+Framework Selection:
+
+Instruct students to choose either TensorFlow or PyTorch as their deep learning framework for this assignment.
+Model Design and Architecture:
+
+Guide students through the process of designing a CNN model architecture:
+a. Define the input layer with appropriate dimensions (image size and channels).
+b. Add convolutional layers with different filter sizes and activation functions.
+c. Include pooling layers (e.g., max pooling) for down-sampling.
+d. Implement fully connected layers for classification.
+e. Define the output layer with the appropriate number of units corresponding to the number of classes.
+Data Preprocessing:
+
+Explain the importance of data preprocessing, including tasks such as data normalization and data augmentation to enhance model generalization.
+Training the CNN:
+
+Instruct students to write code to train their CNN model on the provided dataset.
+Specify training parameters such as learning rate, batch size, and the number of training epochs.
+Encourage students to monitor training progress by visualizing metrics (e.g., loss and accuracy) using appropriate tools or libraries.
+Evaluation and Testing:
+
+Have students evaluate the trained CNN model's performance on a separate test dataset.
+Calculate classification accuracy and visualize model predictions on test images.
+Experimentation and Optimization:
+
+Encourage students to experiment with different hyperparameters and model architectures to improve classification performance.
+Documentation and Code Submission:
+
+Assign students the task of documenting their CNN model implementation, including explanations and comments.
+Have them submit their code and documentation for evaluation.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of a CNN model for image classification using the chosen deep learning framework.
+Appropriate data preprocessing and data augmentation techniques.
+Successful training and evaluation of the CNN model on the provided dataset.
+Proper documentation of the code, including explanations and comments.
+Ethical considerations related to data usage and interpretation.
+Experimentation with hyperparameters and an understanding of their impact on model performance.

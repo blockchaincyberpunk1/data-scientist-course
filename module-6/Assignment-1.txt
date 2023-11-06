@@ -1,0 +1,56 @@
+Neural Network Basics
+
+Objective: To understand the basics of neural networks.
+
+Task:
+
+Introduction to Neural Networks:
+
+Provide an introduction to neural networks, emphasizing their structure, components (neurons and layers), and the concept of feedforward networks.
+Dataset Selection:
+
+Assign students a simple dataset suitable for binary classification, such as the XOR problem. The dataset should have a clear separation between classes.
+Neural Network Implementation:
+
+Instruct students to implement a feedforward neural network from scratch using Python and the NumPy library.
+The network should consist of:
+An input layer with the appropriate number of neurons based on the dataset's features.
+At least one hidden layer with a configurable number of neurons.
+An output layer with a single neuron for binary classification.
+Encourage students to implement activation functions (e.g., sigmoid or ReLU) for the hidden layer and a sigmoid activation function for the output layer.
+Dataset Preprocessing:
+
+Guide students in preprocessing the dataset, including data normalization or scaling if necessary.
+Forward Propagation:
+
+Explain the forward propagation process and how to calculate predictions using the implemented network.
+Loss Function and Backpropagation:
+
+Teach students about loss functions (e.g., mean squared error or binary cross-entropy) and the concept of backpropagation.
+Instruct them on how to update the network's weights and biases using gradient descent.
+Training the Network:
+
+Instruct students to train the neural network using the provided dataset.
+They should define hyperparameters such as learning rate, the number of hidden layer neurons, and the number of training epochs.
+Evaluation and Validation:
+
+Have students evaluate the trained neural network's performance on both the training and validation datasets.
+Calculate relevant metrics like accuracy, precision, recall, and F1-score.
+Experimentation and Tuning:
+
+Encourage students to experiment with different hyperparameter settings to observe how they affect the network's performance.
+Documentation and Code Submission:
+
+Assign students the task of documenting their neural network implementation, including the network architecture, training process, and results.
+Have them submit their code and documentation for evaluation.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of a feedforward neural network from scratch.
+Proper dataset preprocessing and handling.
+Accurate forward propagation and backpropagation implementation.
+Successful training and evaluation of the network on the provided dataset.
+Clear documentation of the code, including explanations and comments.
+Ethical considerations related to data usage and interpretation.
+Experimentation with hyperparameters and an understanding of their impact on model performance.

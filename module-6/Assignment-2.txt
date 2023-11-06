@@ -1,0 +1,46 @@
+Deep Learning Framework Introduction
+
+Objective: To explore deep learning frameworks.
+
+Task:
+
+Introduction to Deep Learning Frameworks:
+
+Provide an introduction to deep learning frameworks, focusing on their significance in machine learning and neural network development.
+Explain the choice between TensorFlow and PyTorch as the two primary frameworks for this assignment.
+Framework Selection:
+
+Instruct students to choose one of the deep learning frameworks (TensorFlow or PyTorch) based on their preference or prior experience.
+Basic Operations and Neural Network Architecture:
+
+Guide students through the following tasks:
+a. Installation of the chosen deep learning framework.
+b. Creating a Python script to define a small neural network architecture. The architecture should include input, hidden, and output layers.
+c. Specifying activation functions (e.g., ReLU, sigmoid) for the layers.
+d. Implementing forward and backward passes for the network.
+e. Defining a loss function (e.g., cross-entropy) and an optimization algorithm (e.g., stochastic gradient descent).
+Sample Dataset:
+
+Provide students with a sample dataset suitable for a binary classification task. The dataset should be simple enough to facilitate learning but meaningful for training a neural network.
+Training the Neural Network:
+
+Instruct students to write code for training the neural network on the provided dataset.
+Define training parameters such as learning rate, batch size, and the number of training epochs.
+Evaluation and Performance Metrics:
+
+Have students evaluate the trained neural network's performance on the validation dataset.
+Calculate relevant metrics such as accuracy, precision, recall, and F1-score.
+Documentation and Code Submission:
+
+Assign students the task of documenting their deep learning framework code, including explanations and comments.
+Instruct them to submit their code and documentation for evaluation.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of a neural network using the chosen deep learning framework.
+Accurate forward and backward pass implementations.
+Successful training and evaluation of the network on the provided dataset.
+Proper documentation of the code, including explanations and comments.
+Ethical considerations related to data usage and interpretation.
+Understanding of hyperparameters and their impact on model performance.

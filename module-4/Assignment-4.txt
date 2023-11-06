@@ -1,0 +1,50 @@
+Feature Transformation
+
+Objective: To explore feature transformation techniques.
+
+Task:
+
+Introduction to Feature Transformation:
+
+Provide an introduction to the concept of feature transformation in machine learning.
+Explain that feature transformation involves modifying or encoding features to make them suitable for machine learning algorithms.
+Dataset Selection:
+
+Assign students a dataset for analysis. The dataset should contain a mix of numeric and categorical features.
+Dataset Exploration:
+
+Instruct students to explore the dataset, including data distributions, feature types (numeric, categorical), and any potential issues like missing values.
+Feature Transformation Techniques:
+
+Introduce students to common feature transformation techniques, including:
+Feature Scaling: Explain methods such as Min-Max scaling and Z-score standardization.
+Categorical Variable Encoding: Describe techniques like one-hot encoding and label encoding for handling categorical variables.
+Interaction Features: Illustrate how to create interaction features by combining two or more existing features.
+Feature Transformation Process:
+
+Guide students through the process of feature transformation. They should apply each of the mentioned techniques to the dataset.
+Justification:
+
+Instruct students to justify their use of each feature transformation technique. They should explain why a specific technique was applied to a particular feature.
+Model Building:
+
+Have students build machine learning models using the transformed features and compare model performance (e.g., accuracy, F1-score, mean squared error) with and without feature transformation.
+Evaluation Metrics:
+
+Explain the importance of selecting appropriate evaluation metrics for the machine learning task and dataset. Students should identify the relevant metrics for their problem.
+Report or Presentation:
+
+Assign students the task of creating a report or presentation summarizing their feature transformation process, techniques applied, justifications, and the impact on model performance.
+Submission of Feature Transformation Project:
+
+Have students submit their reports or presentations for evaluation.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Application of feature transformation techniques.
+Clarity and completeness of explanations and justifications.
+Comparison of model performance before and after feature transformation.
+Appropriate selection of evaluation metrics.
+Ethical considerations related to data usage and feature transformation.
+Overall organization and clarity of the report or presentation.

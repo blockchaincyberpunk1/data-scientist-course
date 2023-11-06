@@ -1,0 +1,52 @@
+Interactive Data Dashboard
+
+Objective: To build an interactive data dashboard.
+
+Task:
+
+Introduction to Interactive Data Dashboards:
+
+Provide an introduction to the importance of interactive data dashboards in data analysis and communication.
+Explain how interactive features can enhance user engagement and data exploration.
+Dataset Selection:
+
+Instruct students to select a dataset for their interactive dashboard project. The dataset should be relevant to their interests or field of study and suitable for creating a dashboard.
+Dashboard Tools and Programming Language:
+
+Let students choose a programming language and tool for creating the interactive dashboard. Common choices include Python with Plotly Dash or R with Shiny.
+Provide guidance on how to set up the chosen tool and import any necessary libraries.
+Data Exploration:
+
+Instruct students to load and explore the chosen dataset. They should identify key variables, potential insights, and user interactions that would be valuable for their dashboard.
+Dashboard Design and Layout:
+
+Assign students the task of designing the layout and interface of their interactive dashboard. They should consider the following:
+Selecting appropriate visualization components (charts, graphs, tables).
+Designing a user-friendly interface with labels and instructions.
+Adding interactive elements like dropdowns, filters, or buttons for user interaction.
+Organizing the dashboard into sections or tabs for clarity.
+Dashboard Development:
+
+Guide students through the process of developing the interactive dashboard using their chosen tool. They should create the necessary components, connect data to visualizations, and implement interactivity.
+User Testing (Optional):
+
+If time allows, students can conduct user testing by sharing their dashboard with peers or volunteers to gather feedback on usability and effectiveness.
+Documentation:
+
+Require students to document the dashboard development process, including any challenges faced and how they were overcome, as well as insights or findings from the data.
+Presentation (Optional):
+
+If time permits, students can present their interactive data dashboards to the class, demonstrating how to use the dashboard and highlighting key insights.
+Submission of Interactive Data Dashboard:
+
+Have students submit their interactive data dashboard project, including the code, dataset, documentation, and any user testing feedback.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Usability and user-friendliness of the interactive dashboard.
+Effectiveness of interactive features for data exploration.
+Clarity and completeness of documentation.
+Creativity and customization in dashboard design.
+Ethical considerations related to data representation and privacy.
+Overall presentation and clarity of the dashboard.
